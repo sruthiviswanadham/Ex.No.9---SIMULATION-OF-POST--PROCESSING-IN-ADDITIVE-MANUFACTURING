@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: VISWANADHAM VENKATA SAI SRUTHI
+### Register Number: 212223100061
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
