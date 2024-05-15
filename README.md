@@ -47,6 +47,7 @@
 
 ## Output:
 
+![image](https://github.com/sruthiviswanadham/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151760421/36c9283e-7737-4297-8174-922cb540e068)
 ### Name: VISWANADHAM VENKATA SAI SRUTHI
 ### Register Number: 212223100061
 
